@@ -195,6 +195,7 @@ border-top: .05rem solid #956572;
 /*===== Contact ===*/
 .non-floater {
   overflow: hidden;
+  
 }
 
 iframe {
@@ -202,6 +203,7 @@ iframe {
   padding: 10px;
   border: 0;
   height: 350px;
+  position: relative;
 }
 
 footer{
